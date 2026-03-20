@@ -91,8 +91,10 @@ This system solves the above problems by:
 Attendance System (Live Project)
 🌐 Live Demo: https://srikanthk-codespace.github.io/Pinnacle_Attendance_System-T1/
 
-Login Credentionals deatils : Admin@gmail.com
+Login Credentionals deatils : admin@gmail.com
                     passwrd:  123456
+
+NOTE: keep the " admin " as all small letters
 
 ---
 
