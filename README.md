@@ -94,7 +94,7 @@ Attendance System (Live Project)
 🌐 Live Demo: https://srikanthk-codespace.github.io/Pinnacle_Attendance_System-T1/
 
 Login Credentionals deatils : admin@gmail.com
-                    passwrd:  123456
+passwrd:  123456
 
 NOTE: keep the " admin " as all small letters
 
@@ -138,8 +138,6 @@ Srikanth K
 I would like to express my sincere gratitude to the organization where I completed my internship for providing me with the opportunity to work on this project.
 
 This project was developed as part of my practical learning during the internship, where I gained hands-on experience in web development, Firebase integration, and real-time database management.
-
-I also thank my mentors and team members for their guidance and support throughout the development of this project.
 
 ---
 
