@@ -91,6 +91,9 @@ This system solves the above problems by:
 Attendance System (Live Project)
 🌐 Live Demo: https://srikanthk-codespace.github.io/Pinnacle_Attendance_System-T1/
 
+Login Credentionals deatils : Admin@gmail.com
+                    passwrd:  123456
+
 ---
 
 🚀 Future Enhancements
