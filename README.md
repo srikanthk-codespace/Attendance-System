@@ -89,9 +89,7 @@ This system solves the above problems by:
 
 ---
 Attendance System (Live Project)
-GitHub: https://github.com/iamsrikanthk/Attendance-System
-
-🌐 Live Demo: https://iamsrikanthk.github.io/Attendance-System/
+🌐 Live Demo: https://srikanthk-codespace.github.io/Pinnacle_Attendance_System-T1/
 
 ---
 
